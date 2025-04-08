@@ -57,6 +57,20 @@ LeetCode is essential for mastering technical interview questions. The problems 
 
 ---
 
+## NeetCode  
+**Link:** [https://neetcode.io/](https://neetcode.io/)
+
+NeetCode is one of the most structured and beginner-friendly platforms for mastering coding interviews. It offers curated problem lists, detailed video explanations, and paths that guide you through exactly what to study and in what order.
+
+**How it helps you get hired:**  
+- Organized learning paths for FAANG-style interviews  
+- Curated lists like “Blind 75” and “150 Interview Questions”  
+- Clean UI and tracking tools to measure progress  
+- Excellent companion to LeetCode — many problems are cross-linked  
+- Especially helpful for those who want structure and clarity in their prep
+
+---
+
 ## HackerRank  
 **Link:** [https://www.hackerrank.com/](https://www.hackerrank.com/)
 
@@ -80,6 +94,20 @@ This site helps you find beginner-friendly tasks in real open-source projects. I
 - Gives you experience with issue tracking, pull requests, and code review  
 - Recruiters love to see “open-source contributor” on your resume  
 - Great way to learn by doing
+
+---
+
+## freeCodeCamp  
+**Link:** [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+
+freeCodeCamp is a completely free, self-paced learning platform with thousands of hours of coding tutorials, projects, and certifications. It’s a great place to start or expand your skills with hands-on experience.
+
+**How it helps you get hired:**  
+- Earn **certifications** in Web Dev, JavaScript, Python, Data Science, and more  
+- Build real projects that you can showcase in your portfolio  
+- Learn by doing — every lesson ends in writing real code  
+- Huge supportive community and active forums  
+- Resume-friendly credentials backed by a globally recognized nonprofit
 
 ---
 
